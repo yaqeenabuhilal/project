@@ -1,0 +1,15 @@
+Index: .idea/.name
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>urls.py
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.name b/.idea/.name
+--- a/.idea/.name	(revision b77704ad582c2a704d6cd88116bb5aba6f012b8d)
++++ b/.idea/.name	(date 1709718528405)
+@@ -1,1 +1,1 @@
+-urls.py
+\ No newline at end of file
++settings.py
+\ No newline at end of file
